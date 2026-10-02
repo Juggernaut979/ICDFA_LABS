@@ -39,7 +39,7 @@ Open the slide deck using:
 - In PowerPoint: `File` → `Save As` → `PDF (.pdf)`.
 - Or run with LibreOffice CLI:
   ```bash
-  libreoffice --headless --convert-to pdf presentation.pptx
+  libreoffice --headless --convert-to pdf TCP IP Communication in Action Slide.pptm
   ```
 
 ---
