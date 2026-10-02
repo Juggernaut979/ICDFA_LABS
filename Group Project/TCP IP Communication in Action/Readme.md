@@ -7,14 +7,14 @@ A comprehensive slide deck and accompanying documentation covering key project m
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [How to View and Export](#-how-to-view-and-export)
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This repository contains the presentation slides. The deck was compiled as a 13-slide overview detailing project architecture, core workflows, and actionable insights.
 
@@ -23,7 +23,7 @@ This repository contains the presentation slides. The deck was compiled as a 13-
 
 ---
 
-## 🚀 How to View and Export
+## How to View and Export
 
 ### Viewing Online
 - You can view the `.pptx` directly in GitHub using the built-in file previewer.
